@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Tutorial
+[Angular - The Complete Guide (2023 Edition)](ttps://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Links with more information
+[Why to and How To Use Strict Mode in Angular Applications](https://betterprogramming.pub/why-to-and-how-to-use-strict-mode-in-angular-applications-1e6f6ffc0595)
+[Angular Standalone Components](https://blogs.halodoc.io/angular-standalone-components-unleashed-exploring-the-magic-of-a-world-without-ngmodule/#:~:text=In%20Angular%2C%20a%20standalone%20component,for%20their%20configuration%20and%20dependencies.)
